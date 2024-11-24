@@ -1,2 +1,2 @@
-def hello_daniel() -> None:
+def hello_makar() -> None:
     print('hello daniel')
